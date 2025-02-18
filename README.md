@@ -1,5 +1,7 @@
 Sales and Marketing Spend Analysis
+
 Project Overview
+
 This project focuses on analyzing the relationship between Marketing Spend and Sales Revenue using a dataset. By exploring the data and visualizing trends, the goal is to understand how marketing, pricing, product ratings, and seasonality affect sales performance. Key insights will help businesses optimize their strategies.
 
 Key Steps
